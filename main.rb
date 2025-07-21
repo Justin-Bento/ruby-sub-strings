@@ -9,4 +9,4 @@ def sub_strings(text, dictionary)
   end
 end
 
-sub_strings(message, dictionary)
+puts sub_strings(message, dictionary)
