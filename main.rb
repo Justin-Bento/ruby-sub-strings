@@ -1,7 +1,7 @@
 sample_text = "below."
 
-def sub_strings(text)
+def sub_strings(text, dictionary)
   puts text.chars()
 end
 
-sub_strings(sample_text)
+sub_strings(sample_text, dictionary)
