@@ -1,1 +1,14 @@
-Pseudo-Code
+1.  Take the sentence and make all letters lowercase
+2.  Create an empty results box to store your findings
+3.  Pick the first word from the dictionary
+4.      Go to the very beginning of the sentence
+5.      Check if the dictionary word starts at this position
+6.      If it matches, add 1 to the count for this word
+7.      Move one letter to the right in the sentence
+8.      If there are more letters to check, go back to line 5
+9.  If you've checked all positions, save the word and its count (if count > 0)
+10. Pick the next word from the dictionary
+11. If there are more dictionary words, go back to line 3
+12. If no words were found at all, say "Nothing is valid"
+13. Otherwise, show all the words you found and their counts
+14. Quit
