@@ -1,0 +1,16 @@
+Define a string, and dictionary.
+
+Input string = "Please enter the a word:"
+Set Value = dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+
+def substrings(string, dictionary)
+    string gets the user input.
+    dictionary validates the users word by matching its hardcoded value.
+    if any dictionary word is a substring of the input
+        count substrings
+    else
+        output "There are no substrings that match"
+        close the program
+end
+
+puts substrings(string, dictionary)
