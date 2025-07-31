@@ -1,7 +1,7 @@
 dictionary = %w[below down go going horn how howdy it i low own part partner sit]
 
 def sub_strings(_string, dictionary)
-  puts 'Please Enter a word: '
+  prints 'Please Enter a word: '
   input = gets.chomp.downcase
 
   result = {}
