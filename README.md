@@ -7,7 +7,7 @@ This repository contains the second project in the Basic Ruby Projects curriculu
 - **Module:** Basic Ruby Projects
 - **Author:** Justin Bento
 - **Date Started:** 2025-07-05
-- **Date Completed:** N / A
+- **Date Completed:** 2025-07-31
 
 ## Project Goal
 
